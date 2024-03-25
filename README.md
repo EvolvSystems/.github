@@ -1,4 +1,4 @@
-![Open Source at Microsoft](https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png) 
+![Open Source at Microsoft](https://github.com/EvolvSystems/.github/blob/main/images/evolv-systems-banner.png) 
 
 Welcome to the EvolvSystems GitHub organization! We are a passionate team dedicated to revolutionizing education through innovative SaaS educational software solutions. Our mission is to empower educators, students, and institutions with cutting-edge tools that foster seamless learning experiences.
 
